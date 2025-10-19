@@ -35,6 +35,7 @@ Streamlit UI に出力
 
 ## ディレクトリ構成
 
+``` text
 kyoto-ai-guide/
 ├── app/
 │   └── streamlit_app.py          # Webアプリ本体(streamlit)
@@ -51,7 +52,7 @@ kyoto-ai-guide/
 ├── models/                       # モデルや埋め込みキャッシュ（任意）
 ├── .env                          # OPENAI_API_KEY（非公開）
 └── README.md
-
+```
 ---
 
 ## 使用技術
