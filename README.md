@@ -29,6 +29,7 @@ FAISS によるドキュメント検索
 OpenAI Fine-tuned GPT-4o-mini で回答生成(入力: プロンプト + 関連性の高いドキュメント2つ)
     ↓
 Streamlit UI に出力
+
 ```
 ---
 
