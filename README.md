@@ -91,4 +91,5 @@ GitHub: github.com/key1118
 
 
 ## Web上(OpenAI使用のため現在はローカル環境でのみ公開)
+<img width="1298" height="565" alt="京都観光AI" src="https://github.com/user-attachments/assets/4eb12803-8852-49cd-96e8-e906897848a6" />
 
